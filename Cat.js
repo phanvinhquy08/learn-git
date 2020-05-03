@@ -4,4 +4,4 @@ function Cat() {
 Cat.prototype.eat = function(Mouse) {
     this.stomtach.push(Mouse)
 }
-module.export = Cat
+module.exports = Cat
